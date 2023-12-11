@@ -48,6 +48,8 @@ boolean : true/false
 null : nulo
 undefinied : no está asignado o definido */
 
+/* Todas nuestras variables deben ser declaradas con nombres específicos y claros, no beben iniciar con números*/
+
 let nombre = "Daniel";
 let invitadxsExtras = 2;
 let esMayorEdad = true;
@@ -55,3 +57,4 @@ let edad = 25;
 let invitadxEspecial = null;
 let horaDeSalida = undefined;
 
+console.log(nombre);
